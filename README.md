@@ -3,4 +3,4 @@ My experiences with Git, GitHub, and the age of collaborative communication. [It
 
 
 # _**NOTICE**_
-**This repo is here for legacy purposes only! The new GitBook is in the same repo as my website, [EtherTyper/www/](http://github.com/ethertyper/www/)
+This repo is here for legacy purposes only! The new GitBook is in the same repo as my website, [EtherTyper/www/](http://github.com/ethertyper/www/)
